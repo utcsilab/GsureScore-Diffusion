@@ -5,7 +5,7 @@ Source code for paper [GSURE Denoising enables training of higher quality genera
 
 ![samples](assets/FastMRI.png)
 
-(**From left to right**: Pipeline describing the techniques utilized for: (i) GSURE Denoising, (ii) Score-Model Training, and (iii) Sampling)
+(Pipeline describing the techniques utilized for: (i) GSURE Denoising, (ii) Score-Model Training, and (iii) Sampling)
 
 # Training
 We streamline the method proposed in [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600). Score-based generative models are flexible neural networks trained to capture the score function of an underlying data distribution—a vector field pointing to directions where the data density increases most rapidly. We present a generic pipeline for training score-based generative models.
