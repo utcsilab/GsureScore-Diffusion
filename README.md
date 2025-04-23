@@ -1,4 +1,4 @@
-# GsureScore-Diffusion
+# GsureScore-Diffusion | ISMRM 2024
 by [Asad Aali](https://asadaali.com/) and [Jon Tamir](http://users.ece.utexas.edu/~jtamir/csilab.html), UT CSI Lab.
 
 Source code for paper [GSURE denoising enables training of higher quality generative priors for accelerated multi-coil MRI reconstruction](https://asad-aali.github.io/assets/html/ismrm24/gsure-score), published in International Society for Magnetic Resonance in Medicine (ISMRM).
